@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohammadreza Hendiani</h1>
-<h3 align="center">Bachelor of Computer Engineering with a strong interest in open-source technology and cybersecurity. Proficient in programming and enthusiastic about enhancing my expertise in the constantly advancing world of technology and its related fields.</h3>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=man2dev&theme=gruvbox&no-frame=true&rank=-C" alt="man2dev" /></a> </p>
 
 - 🌱 I’m currently learning **Rust**
-
-- 👨‍💻 Most of my projects are available at [man2dev](https://github.com/Man2Dev?tab=repositories)
 
 - 📫 How to reach me **mohammad.r.hendiani@gmail.com**
 
