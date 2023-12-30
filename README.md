@@ -3,10 +3,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&hide_border=true" alt="man2dev" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true" alt="man2dev" /></p>
-
-<!---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=man2dev&theme=ayu-mirage&hide_border=true" alt="man2dev" /></p>
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true" alt="man2dev" /></p>
 
 
