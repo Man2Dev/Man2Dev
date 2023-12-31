@@ -5,4 +5,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true" alt="man2dev" /></p>
 
+![Metrics](https://metrics.lecoq.io/man2dev?template=classic&isocalendar=1&stars=1&projects=1&stargazers=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=graph&stargazers.worldmap=true&stargazers.worldmap.sample=0&stars=false&stars.limit=4&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FTehran)
 
