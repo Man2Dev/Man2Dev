@@ -11,6 +11,7 @@
 		<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Csharp/#512BD4" alt="csharp" width="40" height="40" /> </a>
 		<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/visualstudio/#5C2D91" alt="visualstudio" width="40" height="40" /> </a>
 		<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" alt="visualstudio" width="40" height="40" /> </a>
+		<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/eclipseide/#2C2255" alt="eclipseide" width="40" height="40" /> </a>
 		<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vim/#019733" alt="vim" width="40" height="40" /> </a>
 		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/arduino/#00878F" alt="arduino" width="40" height="40"/> </a>
 	  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker/#2496ED" alt="docker" width="40" height="40"/> </a>
@@ -18,6 +19,7 @@
 		<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mariadb/#003545" alt="mariadb" width="40" height="40"/> </a>
 		<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mongodb/#47A248" alt="mongodb" width="40" height="40"/> </a>
 		<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mysql/#4479A1" alt="mysql" width="40" height="40"/> </a>
+		<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/sqlite/#003B57" alt="sqlite" width="40" height="40"/> </a>
 		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/html5/#E34F26" alt="html5" width="40" height="40"/> </a>
 		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/css3/#1572B6" alt="css3" width="40" height="40"/> </a>
 		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/javascript/#F7DF1E" alt="javascript" width="40" height="40"/> </a>
