@@ -1,6 +1,6 @@
 <h3 align="left">Languages and Tools:</h3>
 	<p align="center">
-		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/linux/#FCC624" alt="linux" width="40" height="40"/> </a>
+    [![linux][https://www.linux.org/]][https://cdn.simpleicons.org/linux/#FCC624]
 		<a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/fedora/#51A2DA" alt="fedora" width="40" height="40"/> </a>
 		<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gnubash/#4EAA25" alt="bash" width="40" height="40"/> </a>
 		<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/git/#F05032" alt="git" width="40" height="40"/> </a>
