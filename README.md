@@ -36,8 +36,8 @@
 ![Mohammadreza's github stats](https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&hide_border=true)
 ---
-[![forthebadge](https://forthebadge.com/images/featured/featured-compatibility-betamax.svg)](https://forthebadge.com)
+[//]: <> ([![forthebadge](https://forthebadge.com/images/featured/featured-compatibility-betamax.svg)](https://forthebadge.com)
 [![openpgp][openpgp]][openpgp] 
-[openpgp]: https://custom-icon-badges.demolab.com/badge/OpenPGP-blue.svg?logo=verified&logoColor=white
+[openpgp]: https://custom-icon-badges.demolab.com/badge/OpenPGP-blue.svg?logo=verified&logoColor=white)
 OpenPGP fpr: [`BBDF 4951 8874 5A4D 7303 3762 6B35 CC63 E1D8 59B3`](https://keys.openpgp.org/vks/v1/by-keyid/6B35CC63E1D859B3)
 
