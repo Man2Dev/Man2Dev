@@ -21,9 +21,9 @@
 		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/html5/#E34F26" alt="html5" width="40" height="40"/> </a>
 		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/css3/#1572B6" alt="css3" width="40" height="40"/> </a>
 		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/javascript/#F7DF1E" alt="javascript" width="40" height="40"/> </a>
+		<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vuedotjs/#4FC08D" alt="vuejs" width="40" height="40"/> </a>
 		<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/bootstrap/#7952B3" alt="bootstrap" width="40" height="40"/> </a>
 		<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/unity/#000000" alt="unity" width="40" height="40"/> </a>
-		<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vuedotjs/#4FC08D" alt="vuejs" width="40" height="40"/> </a>
 		<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobeillustrator/#FF9A00" alt="illustrator" width="40" height="40"/> </a>
 		<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobephotoshop/#31A8FF" alt="photoshop" width="40" height="40"/> </a>
 	  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobexd/#FF61F6" alt="xd" width="40" height="40"/> </a>
