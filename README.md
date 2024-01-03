@@ -8,9 +8,12 @@
 		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/c/#A8B9CC" alt="c" width="40" height="40"/> </a>
 		<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cplusplus/#00599C" alt="cplusplus" width="40" height="40"/> </a>
 		<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Csharp/#512BD4" alt="csharp" width="40" height="40" /> </a>
+		<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/visualstudio/#5C2D91" alt="visualstudio" width="40" height="40" /> </a>
+		<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" alt="visualstudio" width="40" height="40" /> </a>
+		<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vim/#019733" alt="vim" width="40" height="40" /> </a>
 		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/arduino/#00878F" alt="arduino" width="40" height="40"/> </a>
 	  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker/#2496ED" alt="docker" width="40" height="40"/> </a>
-		<a href="https://www.podman.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/podman/#892CA0" alt="docker" width="40" height="40"/> </a>
+		<a href="https://www.podman.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/podman/#892CA0" alt="podman``" width="40" height="40"/> </a>
 		<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mariadb/#003545" alt="mariadb" width="40" height="40"/> </a>
 		<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mongodb/#47A248" alt="mongodb" width="40" height="40"/> </a>
 		<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mysql/#4479A1" alt="mysql" width="40" height="40"/> </a>
