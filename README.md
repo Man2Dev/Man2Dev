@@ -24,6 +24,8 @@
 	<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobexd/#FF61F6" alt="xd" width="40" height="40"/> </a>
 	</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&hide_border=true" alt="man2dev" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true" alt="man2dev" /></p>
+---
+### 🐱My Github stats:
+![Mohammadreza's github stats](https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&hide_border=true)
+---
