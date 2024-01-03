@@ -1,14 +1,14 @@
 <h3 align="left">Languages and Tools:</h3>
 	<p align="center">
-		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/arduino/#00878F" alt="arduino" width="40" height="40"/> </a>
-		<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gnubash/#4EAA25" alt="bash" width="40" height="40"/> </a>
 		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/linux/#FCC624" alt="linux" width="40" height="40"/> </a>
+		<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gnubash/#4EAA25" alt="bash" width="40" height="40"/> </a>
 		<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/git/#F05032" alt="git" width="40" height="40"/> </a>
   	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 		<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/python/#3776AB" alt="python" width="40" height="40"/> </a>
 		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/c/#A8B9CC" alt="c" width="40" height="40"/> </a>
 		<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cplusplus/#00599C" alt="cplusplus" width="40" height="40"/> </a>
 		<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Csharp/#512BD4" alt="csharp" width="40" height="40" /> </a>
+		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/arduino/#00878F" alt="arduino" width="40" height="40"/> </a>
 	  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker/#2496ED" alt="docker" width="40" height="40"/> </a>
 		<a href="https://www.podman.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/podman/#892CA0" alt="docker" width="40" height="40"/> </a>
 		<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mariadb/#003545" alt="mariadb" width="40" height="40"/> </a>
