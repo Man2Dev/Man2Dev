@@ -27,5 +27,9 @@
 
 ---
 ### 🐱My Github stats:
-![Mohammadreza's github stats](https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true)
+![Mohammadreza's github stats](https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=true&locale=en&tDheme=ayu-mirage&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&hide_border=true)
+---
+
+OpenPGP fpr: [`BBDF 4951 8874 5A4D 7303 3762 6B35 CC63 E1D8 59B3`](https://keys.openpgp.org/vks/v1/by-keyid/6B35CC63E1D859B3)
+
