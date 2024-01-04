@@ -33,6 +33,7 @@
 
 ---
 ### 🐱My Github stats:
+![Profile activity](https://profile-summary-for-github.com/user/man2dev)
 ![Profile activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=man2dev&theme=ayu_mirage)
 ![Mohammadreza's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=man2dev&theme=ayu_mirage)
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=man2dev&theme=ayu_mirage)
