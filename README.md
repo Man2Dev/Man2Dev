@@ -32,8 +32,8 @@
 	</p>
 
 ---
-<p align="center">
-	<a href="https://github.com/Man2Dev#" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/github/#181717" alt="my GitHub statistics" width="40" height="40"/> </a>
+<p align="left">
+  <h3><img src="https://cdn.simpleicons.org/github/#181717" alt="my GitHub statistics" width="40" height="40"/> statistics:</h3>
 </p>
 
 <a href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md" alt="my github stats">
