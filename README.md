@@ -43,4 +43,11 @@
 </a>
 
 ---
-[![Download OpenPGP key](https://custom-icon-badges.demolab.com/badge/Download_OpenPGP_Key-1F2430.svg?logo=shield-lock&logoColor=D2B270)](https://keys.openpgp.org/vks/v1/by-fingerprint/BBDF495188745A4D730337626B35CC63E1D859B3) `BBDF495188745A4D730337626B35CC63E1D859B3`
+[![Download OpenPGP key](https://custom-icon-badges.demolab.com/badge/Download_OpenPGP_Key-1F2430.svg?logo=shield-lock&logoColor=D2B270)](https://keys.openpgp.org/vks/v1/by-fingerprint/BBDF495188745A4D730337626B35CC63E1D859B3)
+`BBDF495188745A4D730337626B35CC63E1D859B3`
+
+<p align="center">
+  <h3 align="center"> <img align="center" src="https://custom-icon-badges.demolab.com/badge/Download_OpenPGP_Key-1F2430.svg?logo=shield-lock&logoColor=D2B270" alt="Download OpenPGP key"/>`BBDF495188745A4D730337626B35CC63E1D859B3`</h3>
+</p>
+
+
