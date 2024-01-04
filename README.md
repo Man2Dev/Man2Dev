@@ -33,12 +33,13 @@
 
 ---
 ### 🐱My Github stats:
-<a href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md" alt="my github stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=man2dev&rank_icon=github&show_icons=true&hide=contribs&hide_border=true&card_width=320&theme=ayu-mirage" />
-</a>
 <a href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md" alt="my top languages">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=ayu-mirage" />
 </a>
+<a href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md" alt="my profile activity">
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=man2dev&theme=ayu_mirage" />
+</a>
+
 ---
 [![Download OpenPGP key](https://custom-icon-badges.demolab.com/badge/Download_OpenPGP_Key-1F2430.svg?logo=shield-lock&logoColor=D2B270)](https://keys.openpgp.org/vks/v1/by-fingerprint/BBDF495188745A4D730337626B35CC63E1D859B3)
 ````
