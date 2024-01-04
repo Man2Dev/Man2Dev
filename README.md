@@ -32,9 +32,9 @@
 	</p>
 
 ---
-### 🐱My Github stats:
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=man2dev&theme=react)
-![Mohammadreza's github stats](https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true)
+### 🐱My Github stat:
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=man2dev&theme=ayu-mirage&hide_border=true)
+[Mohammadreza's github stats](https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&hide_border=true)
 ---
 [![Download OpenPGP key](https://custom-icon-badges.demolab.com/badge/Download_OpenPGP_Key-1F2430.svg?logo=shield-lock&logoColor=D2B270)](https://keys.openpgp.org/vks/v1/by-fingerprint/BBDF495188745A4D730337626B35CC63E1D859B3)
