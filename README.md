@@ -14,7 +14,7 @@
 		<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gnubash/#4EAA25" alt="bash" width="40" height="40"/> </a>
   	<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vim/#019733" alt="vim" width="40" height="40" /> </a>
 	  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker/#2496ED" alt="docker" width="40" height="40"/> </a>
-		<a href="https://www.podman.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/podman/#892CA0" alt="podman``" width="40" height="40"/> </a>
+		<a href="https://www.podman.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" alt="podman" width="40" height="40"/> </a>
 		<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mongodb/#47A248" alt="mongodb" width="40" height="40"/> </a>
 		<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mysql/#4479A1" alt="mysql" width="40" height="40"/> </a>
 		<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/sqlite/#003B57" alt="sqlite" width="40" height="40"/> </a>
