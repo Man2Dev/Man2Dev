@@ -38,5 +38,5 @@
 ---
 [![Download OpenPGP key](https://custom-icon-badges.demolab.com/badge/OpenPGP-1F2430.svg?logo=download&logoColor=D2B270)](https://keys.openpgp.org/vks/v1/by-fingerprint/BBDF495188745A4D730337626B35CC63E1D859B3)
 ````
-BBDF 4951 8874 5A4D 7303 3762 6B35 CC63 E1D8 59B3
+BBDF495188745A4D730337626B35CC63E1D859B3
 ````
