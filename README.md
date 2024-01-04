@@ -36,7 +36,7 @@
 ![Profile activity](https://profile-summary-for-github.com/user/man2dev)
 ![Profile activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=man2dev&theme=ayu_mirage)
 ![Mohammadreza's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=man2dev&theme=ayu_mirage)
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=man2dev&theme=ayu_mirage)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=man2dev&theme=ayu_mirage&exclude=C)
 ---
 [![Download OpenPGP key](https://custom-icon-badges.demolab.com/badge/Download_OpenPGP_Key-1F2430.svg?logo=shield-lock&logoColor=D2B270)](https://keys.openpgp.org/vks/v1/by-fingerprint/BBDF495188745A4D730337626B35CC63E1D859B3)
 ````
