@@ -34,7 +34,7 @@
 ---
 ### 🐱My Github stats:
 ![Profile activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=man2dev&theme=ayu_mirage)
-![Mohammadreza's github stats](https://github-readme-stats.vercel.app/api?username=man2dev&rank_icon=github&show_icons=true&hide=contribs&theme=ayu-mirage)
+![Mohammadreza's github stats](https://github-readme-stats.vercel.app/api?username=man2dev&rank_icon=github&show_icons=true&hide=contribs&hide_border=true&theme=ayu-mirage)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=man2dev&theme=ayu_mirage&exclude=C)
 ---
 [![Download OpenPGP key](https://custom-icon-badges.demolab.com/badge/Download_OpenPGP_Key-1F2430.svg?logo=shield-lock&logoColor=D2B270)](https://keys.openpgp.org/vks/v1/by-fingerprint/BBDF495188745A4D730337626B35CC63E1D859B3)
