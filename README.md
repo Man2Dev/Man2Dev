@@ -33,7 +33,7 @@
 
 ---
 ### 🐱My Github stats:
-![Profile activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=man2dev&theme=ayu-mirage&hide_border=true)
+![Profile activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=man2dev&theme=dracula&hide_border=true)
 ![Mohammadreza's github stats](https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&hide_border=true)
 ---
