@@ -1,6 +1,6 @@
 <h3 align="left">Languages and Tools:</h3>
 	<p align="center">
-		a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+		<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 		<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/python/#3776AB" alt="python" width="40" height="40"/> </a>
 		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/c/#A8B9CC" alt="c" width="40" height="40"/> </a>
 		<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cplusplus/#00599C" alt="cplusplus" width="40" height="40"/> </a>
@@ -9,7 +9,7 @@
 		<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/visualstudio/#5C2D91" alt="visualstudio" width="40" height="40" /> </a>
 		<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" alt="visualstudio" width="40" height="40" /> </a>
 		<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/eclipseide/#2C2255" alt="eclipseide" width="40" height="40" /> </a>
-		<<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/linux/#FCC624" alt="linux" width="40" height="40"/> </a>
+		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/linux/#FCC624" alt="linux" width="40" height="40"/> </a>
 		<a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/fedora/#51A2DA" alt="fedora" width="40" height="40"/> </a>
 		<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gnubash/#4EAA25" alt="bash" width="40" height="40"/> </a>
   	<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vim/#019733" alt="vim" width="40" height="40" /> </a>
