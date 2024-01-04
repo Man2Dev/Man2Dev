@@ -35,10 +35,8 @@
 ### 🐱My Github stats:
 ![Mohammadreza's github stats](https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&hide_border=true)
-
+---
+[![Download OpenPGP key](https://custom-icon-badges.demolab.com/badge/OpenPGP-blue.svg?logo=download&logoColor=fff)](https://keys.openpgp.org/vks/v1/by-fingerprint/BBDF495188745A4D730337626B35CC63E1D859B3)
 ````
 BBDF 4951 8874 5A4D 7303 3762 6B35 CC63 E1D8 59B3
 ````
-<p align="center">
- <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/BBDF495188745A4D730337626B35CC63E1D859B3"><img alt="Download OpenPGP key" src="https://custom-icon-badges.demolab.com/badge/OpenPGP-blue.svg?logo=download&logoColor=fff"/></a>
-</p>
