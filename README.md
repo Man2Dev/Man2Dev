@@ -34,7 +34,7 @@
 ---
 ### 🐱My Github stats:
 <a href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md" alt="my github stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=man2dev&rank_icon=github&show_icons=true&hide=contribs&hide_border=true&card_width=320&theme=ayu-mirage" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=man2dev&rank_icon=github&show_icons=hide&hide=contribs&hide_border=true&card_width=320&theme=ayu-mirage" />
 </a>
 <a href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md" alt="my top languages">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=ayu-mirage" />
