@@ -32,7 +32,7 @@
 	</p>
 
 ---
-[![my GitHub statistics](https://custom-icon-badges.demolab.com/badge/statistics-1F2430.svg?logo=mark-github)]()
+### 🐱My Github stats:
 
 <a href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md" alt="my github stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=man2dev&rank_icon=github&show_icons=hide&hide=contribs&hide_border=true&card_width=320&theme=ayu-mirage" />
