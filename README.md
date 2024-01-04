@@ -33,7 +33,7 @@
 
 ---
 <p align="left">
-  <h3><img src="https://cdn.simpleicons.org/github/#181717" alt="my GitHub statistics" width="24" height="24"/> statistics:</h3>
+  <h3> <img src="https://cdn.simpleicons.org/github/#181717" alt="my GitHub statistics" width="11" height="11"/> statistics:</h3>
 </p>
 
 <a href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md" alt="my github stats">
