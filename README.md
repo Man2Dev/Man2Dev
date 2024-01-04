@@ -42,9 +42,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=ayu-mirage" />
 </a>
 
----
 <p align="center">
-  <span> <img align="center" src="https://custom-icon-badges.demolab.com/badge/Download_OpenPGP_Key-1F2430.svg?logo=shield-lock&logoColor=D2B270" alt="Download OpenPGP key"/>' '<code>BBDF495188745A4D730337626B35CC63E1D859B3</code></span>
+  <span> <img align="center" src="https://custom-icon-badges.demolab.com/badge/Download_OpenPGP_Key-1F2430.svg?logo=shield-lock&logoColor=D2B270" alt="Download OpenPGP key"/> <code>BBDF495188745A4D730337626B35CC63E1D859B3</code></span>
 </p>
 
 
