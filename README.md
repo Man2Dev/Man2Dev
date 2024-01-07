@@ -1,5 +1,6 @@
 <h3 align="left">Languages and Tools:</h3>
 	<p align="center">
+<<<<<<< HEAD
 		<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/> </a>
 		<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/python/#3776AB" alt="python" width="24" height="24"/> </a>
 		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/c/#A8B9CC" alt="c" width="24" height="24"/> </a>
@@ -28,6 +29,36 @@
 	  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobexd/#FF61F6" alt="xd" width="24" height="24"/> </a>
 		<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/unity/#000000" alt="unity" width="24" height="24"/> </a>
 		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/arduino/#00878F" alt="arduino" width="24" height="24"/> </a>
+=======
+		<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/> </a>
+		<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/python/#3776AB" alt="python" width="25" height="25"/> </a>
+		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/c/#A8B9CC" alt="c" width="25" height="25"/> </a>
+		<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cplusplus/#00599C" alt="cplusplus" width="25" height="25"/> </a>
+		<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Csharp/#512BD4" alt="csharp" width="25" height="25" /> </a>
+		<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/git/#F05032" alt="git" width="25" height="25"/> </a>
+		<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/visualstudio/#5C2D91" alt="visualstudio" width="25" height="25" /> </a>
+		<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" alt="visualstudio" width="25" height="25" /> </a>
+		<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/eclipseide/#2C2255" alt="eclipseide" width="25" height="25" /> </a>
+		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/linux/#FCC624" alt="linux" width="25" height="25"/> </a>
+		<a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/fedora/#51A2DA" alt="fedora" width="25" height="25"/> </a>
+		<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gnubash/#4EAA25" alt="bash" width="25" height="25"/> </a>
+  	<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vim/#019733" alt="vim" width="25" height="25" /> </a>
+	  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker/#2496ED" alt="docker" width="25" height="25"/> </a>
+		<a href="https://www.podman.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/podman/#892CA0" alt="podman" width="25" height="25"/> </a>
+		<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mongodb/#47A248" alt="mongodb" width="25" height="25"/> </a>
+		<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mysql/#4479A1" alt="mysql" width="25" height="25"/> </a>
+		<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/sqlite/#003B57" alt="sqlite" width="25" height="25"/> </a>
+		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/html5/#E34F25" alt="html5" width="25" height="25"/> </a>
+		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/css3/#1572B6" alt="css3" width="25" height="25"/> </a>
+		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/javascript/#F7DF1E" alt="javascript" width="25" height="25"/> </a>
+		<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vuedotjs/#4FC08D" alt="vuejs" width="25" height="25"/> </a>
+		<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/bootstrap/#7952B3" alt="bootstrap" width="25" height="25"/> </a>
+		<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobeillustrator/#FF9A00" alt="illustrator" width="25" height="25"/> </a>
+		<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobephotoshop/#31A8FF" alt="photoshop" width="25" height="25"/> </a>
+	  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobexd/#FF61F6" alt="xd" width="25" height="25"/> </a>
+		<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/unity/#000000" alt="unity" width="25" height="25"/> </a>
+		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/arduino/#00878F" alt="arduino" width="25" height="25"/> </a>
+>>>>>>> svg
 	</p>
 
 ---
@@ -43,5 +74,5 @@
 </a>
 
 <p align="center">
-  <span><a align="left" href="https://keys.openpgp.org/vks/v1/by-fingerprint/BBDF495188745A4D730337626B35CC63E1D859B3"><img align="center" src="https://custom-icon-badges.demolab.com/badge/OpenPGP-1F2430.svg?logo=shield-lock&logoColor=D2B270" alt="Download OpenPGP key"/></a> <code>BBDF495188745A4D730337626B35CC63E1D859B3</code></span>
+  <span><a align="left" href="https://keys.openpgp.org/vks/v1/by-fingerprint/BBDF495188745A4D730337625B35CC63E1D859B3"><img align="center" src="https://custom-icon-badges.demolab.com/badge/OpenPGP-1F2430.svg?logo=shield-lock&logoColor=D2B270" alt="Download OpenPGP key"/></a> <code>BBDF495188745A4D730337625B35CC63E1D859B3</code></span>
 </p>
