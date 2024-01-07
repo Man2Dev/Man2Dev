@@ -7,6 +7,7 @@
 		<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/git/#F05032" alt="git" width="27" height="27"/> </a>
 		<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/visualstudio/#5C2D91" alt="visualstudio" width="27" height="27" /> </a>
 		<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/eclipseide/#2C2265" alt="eclipseide" width="27" height="27" /> </a>
+		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/arduino/#00878F" alt="arduino" width="27" height="27"/> </a>
 		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/linux/#FCC624" alt="linux" width="27" height="27"/> </a>
 		<a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/fedora/#51A2DA" alt="fedora" width="27" height="27"/> </a>
 		<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gnubash/#4EAA26" alt="bash" width="27" height="27"/> </a>
@@ -26,7 +27,6 @@
 	  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobexd/#FF61F6" alt="xd" width="27" height="27"/> </a>
 		<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/unity/#000000" alt="unity" width="27" height="27"/> </a>
 		<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Csharp/#512BD4" alt="csharp" width="27" height="27" /> </a>
-		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/arduino/#00878F" alt="arduino" width="27" height="27"/> </a>
 	</p>
 
 ---
