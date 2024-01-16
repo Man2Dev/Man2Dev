@@ -34,14 +34,14 @@
   <h2 align="left"> <a href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md"></a>Github statistics:</h2>
 </p>
 
-<span align="center">
+<div align="center" dir="auto">
   <a align="center" href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md" alt="my github stats">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=man2dev&rank_icon=github&show_icons=hide&hide=contribs&hide_border=true&card_width=320&theme=ayu-mirage" />
+  <img align="center" style="max-width: 100%;" height=200 src="https://github-readme-stats.vercel.app/api?username=man2dev&rank_icon=github&show_icons=hide&hide=contribs&hide_border=true&card_width=320&theme=ayu-mirage" />
   </a>
   <a align="center" href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md" alt="Top languages">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=ayu-mirage" />
+  <img align="center" style="max-width: 100%;" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=ayu-mirage" />
   </a>
-</span>
+</div>
 
 <p align="center">
   <span><a align="left" href="https://keys.openpgp.org/vks/v1/by-fingerprint/BBDF495188745A4D730337626B35CC63E1D859B3"><img align="center" src="https://custom-icon-badges.demolab.com/badge/OpenPGP-1F2430.svg?logo=shield-lock&logoColor=D2B270" alt="Download OpenPGP key"/></a> <code>BBDF495188745A4D730337626B35CC63E1D859B3</code></span>
