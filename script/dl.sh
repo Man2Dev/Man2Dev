@@ -1,14 +1,17 @@
 #!/bin/sh
 
 # calculating uptime
-# get the current year
-current_year=$(date "+%Y")
+# Get the current date and time
+now=$(date +%s)
 
-# specify the birth year
-birth_year=1998
+# Convert the birth year to seconds since the epoch
+birth=$(date -d "1998-12-01" +%s)
 
-# calculate the age
-yyyy=$((current_year - birth_year)-1)
+# Calculate the difference between the current time and the birth time
+diff=$((now - birth))
+
+# Calculate the number of years
+years=$((diff / 31536000))
 
 ascii00='          _____                    _____          '
 ascii01='         /\    \                  /\    \         '
@@ -39,7 +42,7 @@ line="-------"
 line00="OS:+Mohammadreza+Hendiani"
 line01="Matrix+ID:+@man2dev:fedora.im"
 line02="Kernel:+BCS-Informatik-100.cs.noarch"
-line03="Uptime:+$yyyy+years,+1+day,+12+hours,+29+mins"
+line03="Uptime:+$years+years,+1+day,+12+hours,+29+mins"
 line04="Packages:+∞"
 line05="Shell:+The+Internet"
 line06="Resolution:+Native+3D"
