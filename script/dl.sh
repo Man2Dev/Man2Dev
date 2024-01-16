@@ -13,7 +13,7 @@ diff=$((now - birth))
 # Calculate the number of years
 years=$((diff / 31536000))
 
-shell='~+%3E'
+shell='~%3E'
 cmd='fetchme'
 
 ascii00='          _____                    _____          '
@@ -63,4 +63,4 @@ line17="Disk+(/):+∞+/+∞+-+btrfs"
 line18="Battery:+100%+[Full]"
 line19="Locale:+en_US.UTF-8"
 
-curl -go ~/man2dev/img/fetchme.svg "https://readme-typing-svg.demolab.com/?random=false&height=585&width=1150&size=20&font=monospace&color=11D116&center=false&vCenter=true&multiline=true&duration=60&pause=50&repeat=flase&separator=;&lines=$shell+$cmd;$ascii00+$host;$ascii01+$line;$ascii02+$line00;$ascii03+$line01;$ascii04+$line02;$ascii05+$line03;$ascii06+$line04;$ascii07+$line05;$ascii08+$line06;$ascii09+$line07;$ascii10+$line08;$ascii11+$line09;$ascii12+$line10;$ascii13+$line11;$ascii14+$line12;$ascii15+$line13;$ascii16+$line14;$ascii17+$line15;$ascii18+$line16;$ascii19+$line17;$ascii20+$line18;$ascii21+$line19;"
+curl -go ~/fetchme.svg "https://readme-typing-svg.demolab.com/?random=false&height=585&width=1150&size=20&font=monospace&color=11D116&center=false&vCenter=true&multiline=true&duration=60&pause=50&repeat=flase&separator=;&lines=$shell+$cmd;$ascii00+$host;$ascii01+$line;$ascii02+$line00;$ascii03+$line01;$ascii04+$line02;$ascii05+$line03;$ascii06+$line04;$ascii07+$line05;$ascii08+$line06;$ascii09+$line07;$ascii10+$line08;$ascii11+$line09;$ascii12+$line10;$ascii13+$line11;$ascii14+$line12;$ascii15+$line13;$ascii16+$line14;$ascii17+$line15;$ascii18+$line16;$ascii19+$line17;$ascii20+$line18;$ascii21+$line19;"
