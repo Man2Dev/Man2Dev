@@ -1,5 +1,15 @@
 #!/bin/sh
 
+# calculating uptime
+# get the current year
+current_year=$(date "+%Y")
+
+# specify the birth year
+birth_year=1998
+
+# calculate the age
+yyyy=$((current_year - birth_year))
+
 ascii00='          _____                    _____          '
 ascii01='         /\    \                  /\    \         '
 ascii02='        /::\____\                /::\____\        '
@@ -26,10 +36,10 @@ ascii21='                       �
 host="man@dev"
 line="-------"
 
-line00="OS:+Engineer+Gen+Z+(Mohammadreza+Hendiani)+noarch"
-line01="Host:+Carbon-based+lifeform"
-line02="Kernel:+Consciousness-∞-000.hZ.noarch"
-line03="Uptime:+25+years,+1+day,+12+hours,+29+mins"
+line00="OS:+Mohammadreza+Hendiani"
+line01="Matrix+ID:+@man2dev:fedora.im"
+line02="Kernel:+BCS-Informatik-100.cs.noarch"
+line03="Uptime:+$yyyy+years,+1+day,+12+hours,+29+mins"
 line04="Packages:+∞"
 line05="Shell:+The+Internet"
 line06="Resolution:+Native+3D"
