@@ -120,7 +120,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path8'>
-               /:::/ |::|   |           /::::\    \            Shell: The Internet
+               /:::/ |::|   |           /::::\    \            Plan to learn: Rust, NIX
         </textPath>
     </text>
         <path id='path9'>
