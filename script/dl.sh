@@ -8,7 +8,7 @@ current_year=$(date "+%Y")
 birth_year=1998
 
 # calculate the age
-yyyy=$((current_year - birth_year))
+yyyy=$((current_year - birth_year)-1)
 
 ascii00='          _____                    _____          '
 ascii01='         /\    \                  /\    \         '
