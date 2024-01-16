@@ -107,7 +107,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path7'>
-                /:::/|::|   |            /:::/____/            Programming Languages: Pyhton Java C++
+                /:::/|::|   |            /:::/____/            Programming Languages: Pyhton Java C++ ...
         </textPath>
     </text>
         <path id='path8'>
@@ -120,7 +120,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path8'>
-             ...
+               /:::/ |::|   |           /::::\    \            Shell: The Internet
         </textPath>
     </text>
         <path id='path9'>
@@ -133,7 +133,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path9'>
-               /:::/ |::|   |           /::::\    \            Shell: The Internet
+              /:::/  |::|___|______    /::::::\    \   _____   Resolution: Native 3D
         </textPath>
     </text>
         <path id='path10'>
@@ -146,7 +146,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path10'>
-              /:::/  |::|___|______    /::::::\    \   _____   Resolution: Native 3D
+             /:::/   |::::::::\    \  /:::/\:::\    \ /\    \  DE: Mohammadreza Hendiani 25.1.10
         </textPath>
     </text>
         <path id='path11'>
@@ -159,7 +159,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path11'>
-             /:::/   |::::::::\    \  /:::/\:::\    \ /\    \  DE: Mohammadreza Hendiani 25.1.10
+            /:::/    |:::::::::\____\/:::/  \:::\    /::\____\ WM: Gravity
         </textPath>
     </text>
         <path id='path12'>
@@ -172,7 +172,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path12'>
-            /:::/    |:::::::::\____\/:::/  \:::\    /::\____\ WM: Gravity
+            \::/    / ~~~~~/:::/    /\::/    \:::\  /:::/    / Theme: Reality
         </textPath>
     </text>
         <path id='path13'>
@@ -185,7 +185,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path13'>
-            \::/    / ~~~~~/:::/    /\::/    \:::\  /:::/    / Theme: Reality
+             \/____/      /:::/    /  \/____/ \:::\/:::/    /  Icons: corporeal
         </textPath>
     </text>
         <path id='path14'>
@@ -198,7 +198,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path14'>
-             \/____/      /:::/    /  \/____/ \:::\/:::/    /  Icons: corporeal
+                         /:::/    /            \::::::/    /   Terminal: English (CEFR C1) 7.0.8
         </textPath>
     </text>
         <path id='path15'>
@@ -211,7 +211,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path15'>
-                         /:::/    /            \::::::/    /   Terminal: English (CEFR C1) 7.0.8
+                        /:::/    /              \::::/    /    Terminal Font: IELTS UKVI Academic (7.0)
         </textPath>
     </text>
         <path id='path16'>
@@ -224,7 +224,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path16'>
-                        /:::/    /              \::::/    /    Terminal Font: IELTS UKVI Academic (7.0)
+                       /:::/    /               /:::/    /     CPU: Bachelor of Computer Engineering
         </textPath>
     </text>
         <path id='path17'>
@@ -237,7 +237,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path17'>
-                       /:::/    /               /:::/    /     CPU: Bachelor of Computer Engineering
+                      /:::/    /               /:::/    /      GPU 1: Persistent
         </textPath>
     </text>
         <path id='path18'>
@@ -250,7 +250,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path18'>
-                      /:::/    /               /:::/    /      GPU 1: Persistent
+                     /:::/    /               /:::/    /       GPU 2: Passion
         </textPath>
     </text>
         <path id='path19'>
@@ -263,7 +263,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path19'>
-                     /:::/    /               /:::/    /       GPU 2: Passion
+                    /:::/    /               /:::/    /        Memory: ∞ / ∞
         </textPath>
     </text>
         <path id='path20'>
@@ -276,7 +276,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path20'>
-                    /:::/    /               /:::/    /        Memory: ∞ / ∞
+                    \::/    /                \::/    /         Disk (/): ∞ / ∞ - btrfs
         </textPath>
     </text>
         <path id='path21'>
@@ -289,7 +289,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path21'>
-                    \::/    /                \::/    /         Disk (/): ∞ / ∞ - btrfs
+                     \/____/                  \/____/          Battery: 100% [Full]
         </textPath>
     </text>
         <path id='path22'>
@@ -302,19 +302,6 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path22'>
-                     \/____/                  \/____/          Battery: 100% [Full]
-        </textPath>
-    </text>
-        <path id='path23'>
-                            <!-- Multiline -->
-                                <animate id='d23' attributeName='d' begin='0s'
-                    dur='2640ms' fill="freeze"
-                    values='m0,600 h0 ; m0,600 h0 ; m0,600 h1200 ; m0,600 h1200' keyTimes='0;0.95833333333333;0.98106060606061;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#11D116' font-size='20'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path23'>
                                                                Locale: en_US.UTF-8
         </textPath>
     </text>
