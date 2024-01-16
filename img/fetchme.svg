@@ -16,7 +16,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path0'>
-            ~ &gt; fetchme
+            ~&gt; fetchme
         </textPath>
     </text>
         <path id='path1'>
