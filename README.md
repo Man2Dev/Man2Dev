@@ -1,5 +1,5 @@
 <img align="center" src="img/fetchme.svg" />
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 	<p align="center">
 		<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="27" height="27"/> </a>
 		<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/python/#3776AB" alt="python" width="27" height="27"/> </a>
@@ -30,7 +30,6 @@
 		<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Csharp/#512BD4" alt="csharp" width="27" height="27" /> </a>
 	</p>
 
----
 <p align="left">
   <h2 align="left"> <a href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md"></a>Github statistics:</h2>
 </p>
