@@ -32,7 +32,7 @@
 
 ---
 <p align="left">
-  <h3 align="left"> <a href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md"></a>Github statistics:</h3>
+  <h4 align="left"> <a href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md"></a>Github statistics:</h4>
 </p>
 
 <span align="center">
