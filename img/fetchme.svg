@@ -146,7 +146,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path10'>
-             /:::/   |::::::::\    \  /:::/\:::\    \ /\    \  Favorite termianl: Alacritty
+             /:::/   |::::::::\    \  /:::/\:::\    \ /\    \  Termianl: Alacritty
         </textPath>
     </text>
         <path id='path11'>
@@ -159,7 +159,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path11'>
-            /:::/    |:::::::::\____\/:::/  \:::\    /::\____\ Favorite shell: Fish
+            /:::/    |:::::::::\____\/:::/  \:::\    /::\____\ Shell: Fish
         </textPath>
     </text>
         <path id='path12'>
@@ -172,7 +172,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path12'>
-            \::/    / ~~~~~/:::/    /\::/    \:::\  /:::/    / Favorite Distro: Fedora (KDE Plasma)
+            \::/    / ~~~~~/:::/    /\::/    \:::\  /:::/    / Linux Distro: Fedora (KDE Plasma)
         </textPath>
     </text>
         <path id='path13'>
