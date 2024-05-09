@@ -36,7 +36,7 @@
 
 <div align="center" dir="auto">
   <a align="center" href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md" alt="my github stats">
-  <img align="center" style="max-width: 100%;" height=200 src="https://github-readme-stats.vercel.app/api?username=man2dev&rank_icon=github&show_icons=hide&hide=contribs&hide_border=true&card_width=320&theme=ayu-mirage" />
+  <img align="center" style="max-width: 100%;" height=200 src="https://github-readme-stats.vercel.app/api?username=man2dev&show_icons=hide&hide=contribs&hide_border=true&card_width=320&theme=ayu-mirage" />
   </a>
   <a align="center" href="https://github.com/Man2Dev/Man2Dev/blob/master/README.md" alt="Top languages">
   <img align="center" style="max-width: 100%;" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=man2dev&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=ayu-mirage" />
