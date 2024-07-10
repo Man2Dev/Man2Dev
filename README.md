@@ -6,7 +6,6 @@
 		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/c/#A8B9CC" alt="c" width="27" height="27"/> </a>
 		<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cplusplus/#00599C" alt="cplusplus" width="27" height="27"/> </a>
 		<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/git/#F05032" alt="git" width="27" height="27"/> </a>
-		<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/visualstudio/#5C2D91" alt="visualstudio" width="27" height="27" /> </a>
 		<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/eclipseide/#2C2265" alt="eclipseide" width="27" height="27" /> </a>
 		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/arduino/#00878F" alt="arduino" width="27" height="27"/> </a>
 		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/linux/#FCC624" alt="linux" width="27" height="27"/> </a>
@@ -27,7 +26,6 @@
 		<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobephotoshop/#31A8FF" alt="photoshop" width="27" height="27"/> </a>
 	  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobexd/#FF61F6" alt="xd" width="27" height="27"/> </a>
 		<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/unity/#000000" alt="unity" width="27" height="27"/> </a>
-		<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Csharp/#512BD4" alt="csharp" width="27" height="27" /> </a>
 	</p>
 
 <p align="left">
