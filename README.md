@@ -10,7 +10,7 @@
 		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/arduino?viewbox=auto&size=27" alt="arduino" width="27" height="27"/> </a>
 		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/linux?viewbox=auto&size=27" alt="linux" width="27" height="27"/> </a>
 		<a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/fedora?viewbox=auto&size=27" alt="fedora" width="27" height="27"/> </a>
-		<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org?viewbox=auto&size=27" alt="bash" width="27" height="27"/> </a>
+		<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gnubash?viewbox=auto&size=27" alt="bash" width="27" height="27"/> </a>
   	<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vim?viewbox=auto&size=27" alt="vim" width="27" height="27" /> </a>
 	  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker?viewbox=auto&size=27" alt="docker" width="27" height="27"/> </a>
 		<a href="https://www.podman.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/podman?viewbox=auto&size=27" alt="podman" width="27" height="27"/> </a>
@@ -20,7 +20,7 @@
 		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/html5?viewbox=auto&size=27" alt="html5" width="27" height="27"/> </a>
 		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/css3?viewbox=auto&size=27" alt="css3" width="27" height="27"/> </a>
 		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=27" alt="javascript" width="27" height="27"/> </a>
-		<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vuedotjs/#4FC08D" alt="vuejs" width="27" height="27"/> </a>
+		<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vuedotjs?viewbox=auto&size=27" alt="vuejs" width="27" height="27"/> </a>
 		<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/bootstrap?viewbox=auto&size=27" alt="bootstrap" width="27" height="27"/> </a>
 		<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobeillustrator?viewbox=auto&size=27" alt="illustrator" width="27" height="27"/> </a>
 		<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobephotoshop?viewbox=auto&size=27" alt="photoshop" width="27" height="27"/> </a>
