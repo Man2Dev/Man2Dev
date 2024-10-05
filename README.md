@@ -1,4 +1,4 @@
-<img align="center" src="img/fetchme.svg" />
+<img align="center" src="./img/fetchme.svg" />
 
 ## About Me
 <div style="text-align:center;">
