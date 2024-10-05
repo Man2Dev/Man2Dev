@@ -1,4 +1,41 @@
 <img align="center" src="img/fetchme.svg" />
+
+## About Me
+<div style="text-align:center;">
+
+**Welcome to my corner of the universe! 🌐**
+
+Fedora package maintainer / AI-ML Sig member <span style="color:blue">🤖</span>
+Advocate for Open Source <span style="color:red">💻</span>
+Committed to promoting digital freedom <span style="color:green">🚀</span>
+Passionate about secure and transparent technology <span style="color:orange">🔒</span>
+
+</div>
+
+## Get in Touch
+* **The best way to reach me is via**
+	+ Matrix: **@man2dev:fedora.im** 📞
+<a href="https://matrix.to/#/@man2dev:fedora.im" style="color:blue;">Join the conversation!</a>
+	+  Feel free to ping me on GitHub/<a href="https://gitlab.com/Man2Dev"  style="color:blue;">GitLab</a> 😁
+	+ You can also visit my Fedora Wiki:
+<a href="https://fedoraproject.org/wiki/User:Man2dev" style="color:blue;">📚 My Fedora Wiki</a>
+	+ Other info on: <a href="https://man2dev.fedorapeople.org"  style="color:blue;">my Fedora website 🌐</a>
+
+## Fedora Project
+* **Package Maintainer**: Since May 2024 💪
+	+ Help Keep the RPMs rolling and the code clean!
+* **AI-ML Sig member**: Since August 2024 🤖
+	+ Contributing to the AI & ML community with passion and enthusiasm!
+	* Developing a Fedora RPM package for ollama: <a href="https://gitlab.com/fedora/sigs/ai-ml/go-ollama"
+style="color:blue;">🔍</a>
+
+## Talks & Presentations
+<div style="text-align:center;">
+<b>Navigating the Challenges of Joining and Contributing to the Fedora Community </b><a href="https://cfp.fedoraproject.org/fwd-2024/speaker/CZZDTX" target="_blank">[info]</a>
+ <img src="http://img.youtube.com/vi/V7VpQEZ4Huc/mqdefault.jpg" alt="Watch the video" width="560" height="315" border="10" />
+</a>
+</div>
+
 <h2 align="left">Languages and Tools:</h2>
 	<p align="center">
 		<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="27" height="27"/> </a>
