@@ -14,20 +14,17 @@ Passionate about secure and transparent technology <span style="color:orange">�
 
 ## Get in Touch
 * **The best way to reach me is via**
-	+ Matrix: **@man2dev:fedora.im** 📞
-<a href="https://matrix.to/#/@man2dev:fedora.im" style="color:blue;">Join the conversation!</a>
-	+  Feel free to ping me on GitHub/<a href="https://gitlab.com/Man2Dev"  style="color:blue;">GitLab</a> 😁
-	+ You can also visit my Fedora Wiki:
-<a href="https://fedoraproject.org/wiki/User:Man2dev" style="color:blue;">📚 My Fedora Wiki</a>
-	+ Other info on: <a href="https://man2dev.fedorapeople.org"  style="color:blue;">my Fedora website 🌐</a>
+	+ Matrix: **@man2dev:fedora.im** <a href="https://matrix.to/#/@man2dev:fedora.im" style="color:blue;">Join the conversation!</a> 📞
+	+ Feel free to ping me on GitHub <a href="https://gitlab.com/Man2Dev" style="color:blue;">GitLab</a> 😁
+	+ You can also visit my Fedora Wiki: <a href="https://fedoraproject.org/wiki/User:Man2dev" style="color:blue;">My Fedora Wiki</a> 📚
+	+ Other info on: <a href="https://man2dev.fedorapeople.org" style="color:blue;">my Fedora website</a> 🌐
 
 ## Fedora Project
 * **Package Maintainer**: Since May 2024 💪
 	+ Help Keep the RPMs rolling and the code clean!
 * **AI-ML Sig member**: Since August 2024 🤖
 	+ Contributing to the AI & ML community with passion and enthusiasm!
-	* Developing a Fedora RPM package for ollama: <a href="https://gitlab.com/fedora/sigs/ai-ml/go-ollama"
-style="color:blue;">🔍</a>
+	* Developing a Fedora RPM package for ollama: <a href="https://gitlab.com/fedora/sigs/ai-ml/go-ollama" style="color:blue;">🔍</a>
 
 ## Talks & Presentations
 <div style="text-align:center;">
