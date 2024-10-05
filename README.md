@@ -32,7 +32,7 @@ style="color:blue;">🔍</a>
 ## Talks & Presentations
 <div style="text-align:center;">
 <b>Navigating the Challenges of Joining and Contributing to the Fedora Community </b><a href="https://cfp.fedoraproject.org/fwd-2024/speaker/CZZDTX" target="_blank">[info]</a>
- <img src="http://img.youtube.com/vi/V7VpQEZ4Huc/mqdefault.jpg" alt="Watch the video" width="560" height="315" border="10" />
+ [![Watch the talk](https://img.youtube.com/vi/V7VpQEZ4Huc/mqdefault.jpg)](https://youtu.be/V7VpQEZ4Huc?start=122&end=1230)
 </a>
 </div>
 
