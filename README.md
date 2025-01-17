@@ -56,9 +56,6 @@ Passionate about secure and transparent technology <span style="color:orange">ğŸ
 		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=27" alt="javascript" width="27" height="27"/> </a>
 		<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vuedotjs?viewbox=auto&size=27" alt="vuejs" width="27" height="27"/> </a>
 		<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/bootstrap?viewbox=auto&size=27" alt="bootstrap" width="27" height="27"/> </a>
-		<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobeillustrator?viewbox=auto&size=27" alt="illustrator" width="27" height="27"/> </a>
-		<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobephotoshop?viewbox=auto&size=27" alt="photoshop" width="27" height="27"/> </a>
-	  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobexd?viewbox=auto&size=27" alt="xd" width="27" height="27"/> </a>
 		<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/unity?viewbox=auto&size=27" alt="unity" width="27" height="27"/> </a>
 	</p>
 
