@@ -21,10 +21,9 @@ Passionate about secure and transparent technology <span style="color:orange">�
 
 ## Fedora Project
 * **Package Maintainer**: Since May 2024 💪
-	+ Help Keep the RPMs rolling and the code clean!
+	+ Maintainer of Fedora RPMs like wcurl, llama-cpp, Whisper-cpp
 * **AI-ML Sig member**: Since August 2024 🤖
 	+ Contributing to the AI & ML community with passion and enthusiasm!
-	* Developing a Fedora RPM package for ollama: <a href="https://gitlab.com/fedora/sigs/ai-ml/go-ollama" style="color:blue;">Git repo 🔍</a>
 
 ## Talks & Presentations
 <div style="text-align:center;">
