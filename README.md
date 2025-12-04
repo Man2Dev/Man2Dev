@@ -14,7 +14,6 @@ Passionate about secure and transparent technology <span style="color:orange">�
 
 ## Get in Touch
 * **The best way to reach me is via**
-	+ Matrix: **@man2dev:fedora.im** <a href="https://matrix.to/#/@man2dev:fedora.im" style="color:blue;">Join the conversation! 📞</a>
  	+ Feel free to ping me on <a href="https://github.com/Man2Dev" style="color:blue;">GitHab</a> / <a href="https://gitlab.com/Man2Dev" style="color:blue;">GitLab</a>
 	+ You can also visit my Fedora Wiki: <a href="https://fedoraproject.org/wiki/User:Man2dev" style="color:blue;">My Fedora Wiki 📚</a>
 	+ Other info on: <a href="https://man2dev.fedorapeople.org" style="color:blue;">My Fedora website 🌐</a>
