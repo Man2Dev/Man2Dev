@@ -24,13 +24,6 @@ Passionate about secure and transparent technology <span style="color:orange">�
 * **AI-ML Sig member**: Since August 2024 🤖
 	+ Contributing to the AI & ML community with passion and enthusiasm!
 
-## Talks & Presentations
-<div style="text-align:center;">
-<b>Navigating the Challenges of Joining and Contributing to the Fedora Community </b><a href="https://cfp.fedoraproject.org/fwd-2024/speaker/CZZDTX" target="_blank">[info]</a></b>
-</div>
-
-[![Watch the talk](https://img.youtube.com/vi/V7VpQEZ4Huc/0.jpg)](https://youtu.be/V7VpQEZ4Huc?start=122&end=1230 "Navigating the challenges of joining & contributing to Fedora – Fedora Week of Diversity 2024")
-
 <h2 align="left">Languages and Tools:</h2>
 	<p align="center">
 		<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="27" height="27"/> </a>
